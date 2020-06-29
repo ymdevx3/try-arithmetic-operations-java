@@ -18,6 +18,6 @@ $ java -cp .:./libs/eval16.jar ArithmeticOperations
 - Windows
 
 ```bash
-$ javac -encoding Shift_JIS -cp .;\libs\eval16.jar ArithmeticOperations.java Calculatorjava
+$ javac -encoding Shift_JIS -cp .;.\libs\eval16.jar ArithmeticOperations.java Calculator.java
 $ java -cp .;.\libs\eval16.jar ArithmeticOperations
 ```
